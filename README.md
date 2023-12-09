@@ -25,7 +25,7 @@ To run this project, you'll need to have the following Python libraries installe
 - [pytest](https://pypi.org/project/pytest/) (version 6.2.4)
 - [pytest-html](https://pypi.org/project/pytest-html/) (version 3.1.1)
 
-### Installation
+### Installation / Running tests / Reporting
 
 You can install the required libraries using `pip`. Run the following command in your project's virtual environment:
 
